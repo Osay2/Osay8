@@ -2,7 +2,7 @@
 
 Hacking-Tool, herramientas de piratería.
 
-#¿Cómo instalar?
+#Install
 
 $ git clone
 
