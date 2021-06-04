@@ -4,7 +4,7 @@ Hacking-Tool, herramientas de piratería.
 
 #Install
 
-$ git clone
+$ git clone https://github.com/Osay2/Osay8
 
 $ ls
 
