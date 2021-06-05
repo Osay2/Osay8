@@ -2,7 +2,7 @@
 
 Hacking-Tool, herramientas de piratería.
 
-#Install
+# Install
 
 $ git clone https://github.com/Osay2/Osay8
 
